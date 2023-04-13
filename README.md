@@ -1,4 +1,3 @@
-1/5
 POLÍTICA DE PRIVACIDADE
 Este aplicativo é mantido e operado por ac informatica.
 Nós coletamos e utilizamos alguns dados pessoais que pertencem àqueles que
@@ -28,8 +27,7 @@ não haverá coleta de dados sobre origem racial ou étnica, convicção religio
 opinião política, filiação a sindicato ou a organização de caráter religioso, filosófico
 ou político, dado referente à saúde ou à vida sexual, dado genético ou biométrico,
 quando vinculado a uma pessoa natural.
-2/5
-3. Coleta de dados não previstos expressamente
+1/53. Coleta de dados não previstos expressamente
 Eventualmente, outros tipos de dados não previstos expressamente nesta Política
 de Privacidade poderão ser coletados, desde que sejam fornecidos com o
 consentimento do usuário, ou, ainda, que a coleta seja permitida com fundamento
@@ -59,8 +57,7 @@ sobre as bases legais que utilizamos para operações de tratamento de dados
 pessoais específicas podem ser obtidas a partir de nossos canais de contato,
 informados ao final desta Política.
 5. Direitos do usuário
-3/5
-O usuário do aplicativo possui os seguintes direitos, conferidos pela Lei de Proteção
+2/5O usuário do aplicativo possui os seguintes direitos, conferidos pela Lei de Proteção
 de Dados Pessoais:
 - confirmação da existência de tratamento;
 - acesso aos dados;
@@ -96,8 +93,7 @@ As medidas que utilizamos levam em consideração a natureza dos dados, o contex
 e a finalidade do tratamento, os riscos que uma eventual violação geraria para os
 direitos e liberdades do usuário, e os padrões atualmente empregados no mercado
 por empresas semelhantes à nossa.
-4/5
-Entre as medidas de segurança adotadas por nós, destacamos as seguintes:
+3/5Entre as medidas de segurança adotadas por nós, destacamos as seguintes:
 - Os dados de nossos usuários são armazenados em ambiente seguro;
 - Limitamos o acesso aos dados de nossos usuários, de modo que terceiros não
 autorizados não possam acessá-los;
@@ -128,10 +124,10 @@ modificação daquelas já existentes.
 Sempre que houver uma modificação, nossos usuários serão notificados acerca da
 mudança.
 9. Como entrar em contato conosco
-5/5
-Para esclarecer quaisquer dúvidas sobre esta Política de Privacidade ou sobre os
+4/5Para esclarecer quaisquer dúvidas sobre esta Política de Privacidade ou sobre os
 dados pessoais que tratamos, entre em contato com nosso Encarregado de
 Proteção de Dados Pessoais, por algum dos canais mencionados abaixo:
 E-mail: alancirino2012@gmail.com
 Telefone: 89994006050
 Endereço postal: rua antonieta rodrigues de araujo, 325
+5/5
